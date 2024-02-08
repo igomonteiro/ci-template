@@ -1,8 +1,6 @@
 name: ci-template-golang-workflow
 on:
   pull_request:
-    types:
-      - opened
     branches:
       - develop
 jobs:
