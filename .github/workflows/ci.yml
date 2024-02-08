@@ -31,4 +31,4 @@ jobs:
         uses: docker/build-push-action@v5
         with:
           push: true
-          tags: igomonteiro/ci-template:latest
+          tags: igobrm/ci-template:latest
